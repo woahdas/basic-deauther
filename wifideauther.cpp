@@ -6,8 +6,7 @@
 #include <cassert>
 #include <string>
 
-using namespace std
-//NOTE: INSTALL LIBTINS LIBRARY 
+using namespace std;
 int main()
 {
 	string broadcastmac = "FF:FF:FF:FF:FF:FF";
